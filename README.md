@@ -32,3 +32,4 @@ The dataset contains information about movies including budget, popularity, runt
 ## Tools & Libraries
 - Python (pandas, numpy, matplotlib, seaborn, scikit-learn)
 - Jupyter Notebook for EDA and preprocessing
+
